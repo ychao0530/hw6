@@ -1,0 +1,79 @@
+﻿
+
+#wrap {
+    background: white;
+    width: 1000pt;
+    height: auto;
+    margin: 20pt;
+    padding-top: 20px;
+    text-align: left;
+    border-left: solid 10px coral;
+    border-right: solid 10px coral;
+    border-top: solid 10px coral;
+    border-bottom: solid 10px coral;
+}
+
+h1 { color: coral; font-family: 'Adobe Fan Heiti Std'; text-align: center; font-size: 30pt;
+}
+
+h2 { color: coral; text-align: center; font-family:'Adobe Fan Heiti Std'; font-size: 20pt;
+}
+
+#links {text-align: center; background-color: coral; font-family: arial; font-size: 14pt; }
+
+#image {text-align:center;
+}
+
+#footer { text-align: center; color: coral;
+}
+
+#contact { text-align: center;
+}
+
+p { text-align:left; padding-left: 50pt; padding-right: 100pt;
+}
+
+ /* GridView Recipes.aspx*/
+
+.grid-view {
+    background-color: lightgoldenrodyellow;
+    width: auto;
+    margin: 5px 0 10px 0;
+    border: solid 2px coral;
+    border-collapse: collapse;
+    text-align: center;
+    color: black;
+}
+
+
+.grid-view .row { background-color: white;
+    }
+
+.grid-view .alternate { background-color: coral;
+    }
+
+    .grid-view td {
+        padding: 10px;
+        border: solid 2px coral;
+        color: black;
+    }
+
+    .grid-view th {
+        padding: 10px;
+        color: lightgoldenrodyellow;
+        border-left: solid 2px coral;
+ }
+
+    #GridView1 { margin-right:auto;
+    margin-left:auto;
+}
+
+#DetailsView1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+   
+    /*End grid-view style*/
+
+    /* Start detail-view style recipedetails.aspx*/
+
